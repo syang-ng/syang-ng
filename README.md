@@ -1,6 +1,5 @@
-### Hi I’m Sen Yang 😏
+## Hi, I'm Sen Yang 😏
 
-### Github stats
+I am a fourth-year PhD candidate in the Computer Science Department at Yale University. 
 
-![syang-ng's github stats](https://github-readme-stats.vercel.app/api?username=syang-ng&count_private=true&show_icons=true)
-
+My research focuses on analyzing potential issues in decentralized systems, especially those related to [Maximal Extractable Value (MEV)](https://ethereum.org/developers/docs/mev/). Feel free to reach out if you are interested in my work or in collaborating with me!
